@@ -25,7 +25,7 @@
     "mongoose": "^5.0.0-rc1",
     "request": "^2.83.0",
     "strong-supervisor": "^6.2.0",
-    "uuid": "^3.1.0",
+    "uuid": "^3.4.0",
     "watson-developer-cloud": "^2.40.0"
   },
   "devDependencies": {
